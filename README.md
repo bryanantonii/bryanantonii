@@ -1,4 +1,6 @@
-## Hi there 👋
+## Olá
+
+Me chamo Bryan Eduardo e sou um estudante de tecnologia da informação, sou formado em um curso técnico em t.i, no qual foi explorado as áreas de manutenção de hardware, com montagem e desmontagem de computadores, como também formatar computadores, também aprendi sobre redes, fazer cabos de redes, operar um servidor, como linux server ou windows server, maquinas virtuais e até mesmo cisco packet tracer, também aprendi a programar em java como visto nas atividades dos meus repositórios, também sei um pouco de html, css e php além de java. 
 
 <!--
 **bryanantonii/bryanantonii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
